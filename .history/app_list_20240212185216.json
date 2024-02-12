@@ -71,9 +71,9 @@
       "app_store_link": "https://apps.odoo.com/apps/modules/16.0/odoo_product_photo_share_zip/"
     },
     {
-      "app_name": "CRM (Mobile Application)",
-      "app_banner": "/AppsBanner/odoo_crm_app.png",
-      "app_store_link": ""
+      "app_name": "Export product images",
+      "app_banner": "https://apps.odoocdn.com/apps/module_image?image_id=15133217",
+      "app_store_link": "https://apps.odoo.com/apps/modules/16.0/odoo_product_photo_share_zip/"
     }
   ]
 }
