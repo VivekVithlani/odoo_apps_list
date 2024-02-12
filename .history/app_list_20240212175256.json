@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "app_name": "Attendance",
+      "app_banner": "http://apps.odoocdn.com/apps/module_image?image_id=15383844&unique=781d0c65bbfd6a513f87b1c5ca5cd1d89688bc35",
+      "app_store_link": "https://apps.odoo.com/apps/modules/16.0/v3c_hr_attendance/"
+    },
+    {
+      "app_name": "Attendance Messages",
+      "app_banner": "//apps.odoocdn.com/apps/module_image?image_id=15839697&unique=60c342bf3a14865917cfc9964cea72af947356bf",
+      "app_store_link": "https://apps.odoo.com/apps/modules/17.0/hr_attendance_message_odoo/"
+    },
+    {
+      "app_name": "Attendance Messages",
+      "app_banner": "//apps.odoocdn.com/apps/module_image?image_id=15839697&unique=60c342bf3a14865917cfc9964cea72af947356bf",
+      "app_store_link": "https://apps.odoo.com/apps/modules/17.0/hr_attendance_message_odoo/"
+    }
+  ]
+}

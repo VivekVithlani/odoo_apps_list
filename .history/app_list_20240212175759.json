@@ -46,29 +46,9 @@
       "app_store_link": "https://apps.odoo.com/apps/modules/16.0/odoo_event_qrcode/"
     },
     {
-      "app_name": "Planning Mobile App",
-      "app_banner": "https://apps.odoocdn.com/apps/module_image?image_id=15814023",
-      "app_store_link": "https://apps.odoo.com/apps/modules/16.0/planning_mobile_app_odoo_store/"
-    },
-    {
-      "app_name": "Order Line Product Image",
-      "app_banner": "https://apps.odoocdn.com/apps/module_image?image_id=14886880",
-      "app_store_link": "https://apps.odoo.com/apps/modules/15.0/sale_order_line_item_image/"
-    },
-    {
-      "app_name": "Price List Header Report",
-      "app_banner": "https://apps.odoocdn.com/apps/module_image?image_id=15457588",
-      "app_store_link": "https://apps.odoo.com/apps/modules/17.0/pricelist_header/"
-    },
-    {
-      "app_name": "Export product images",
-      "app_banner": "https://apps.odoocdn.com/apps/module_image?image_id=15133217",
-      "app_store_link": "https://apps.odoo.com/apps/modules/16.0/odoo_product_photo_share_zip/"
-    },
-    {
-      "app_name": "Export product images",
-      "app_banner": "https://apps.odoocdn.com/apps/module_image?image_id=15133217",
-      "app_store_link": "https://apps.odoo.com/apps/modules/16.0/odoo_product_photo_share_zip/"
+      "app_name": "Event QR Code Generator | Event Mobile App Scanner",
+      "app_banner": "https://apps.odoocdn.com/apps/module_image?image_id=14733385",
+      "app_store_link": "https://apps.odoo.com/apps/modules/16.0/odoo_event_qrcode/"
     }
   ]
 }
