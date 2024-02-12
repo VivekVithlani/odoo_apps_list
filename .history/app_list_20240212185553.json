@@ -72,7 +72,7 @@
     },
     {
       "app_name": "CRM (Mobile Application)",
-      "app_banner": "https://raw.githubusercontent.com/VivekVithlani/odoo_appstore_list/main/AppsBanner/odoo_crm_app.png",
+      "app_banner": "./AppsBanner/odoo_crm_app.png",
       "app_store_link": ""
     }
   ]
