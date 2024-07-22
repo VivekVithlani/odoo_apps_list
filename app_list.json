@@ -2,7 +2,7 @@
   "items": [
     {
       "app_name": "Attendance",
-      "app_banner": "https://fastly.picsum.photos/id/194/536/354.jpg?hmac=CO31DENK8jYfIY_poSjETaFl8haeeNTqQbC9Afw_0xo",
+      "app_banner": "https://raw.githubusercontent.com/VivekVithlani/odoo_appstore_list/0b4d4aa2e4c586c8f8a5bbd638632e7960e0959f/AppsBanner/pos_banner.png",
       "app_store_link": "https://apps.odoo.com/apps/modules/16.0/v3c_hr_attendance/"
     },
     {
